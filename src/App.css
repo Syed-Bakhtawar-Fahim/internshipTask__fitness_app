@@ -10,10 +10,10 @@ body {
   
   }
   
-  ::-webkit-scrollbar {
+  /* ::-webkit-scrollbar {
     width: 0px;
   }
-  
+   */
   .right-arrow,
   .left-arrow {
     cursor: pointer;
