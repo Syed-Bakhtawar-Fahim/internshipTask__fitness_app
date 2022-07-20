@@ -1,0 +1,1 @@
+1. npm install --legacy-peer-deps --> Used to install same version of dependencies of package.JSON file
